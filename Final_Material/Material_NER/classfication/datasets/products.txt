@@ -1,0 +1,15 @@
+CO
+HCOOH
+HCHO
+CH4
+CH3OH
+C2H4
+C2H5OH
+acetone
+C2+
+propanol
+syngas
+C2H6
+propanal
+CH3COOH
+CH3CHO

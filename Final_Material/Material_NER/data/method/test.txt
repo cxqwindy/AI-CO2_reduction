@@ -1,0 +1,3864 @@
+It~O
+was~O
+clearly~O
+confirmed~O
+that~O
+the~O
+Au~B-surface modification
+thin~I-surface modification
+layer~I-surface modification
+formed~I-surface modification
+by~I-surface modification
+the~I-surface modification
+electrochemical~I-surface modification
+galvanic~I-surface modification
+displacement~I-surface modification
+on~I-surface modification
+polycrystalline~I-surface modification
+Cu~I-surface modification
+surface~I-surface modification
+resulted~O
+in~O
+a~O
+markedly~O
+enhanced~O
+performance~O
+for~O
+the~O
+electrochemical~O
+reduction~O
+of~O
+CO2~O
+to~O
+CO.~O
+
+Reducing~O
+the~O
+onset~O
+potential~O
+of~O
+CO2~O
+electroreduction~O
+on~O
+CuRu~O
+bimetallic~O
+particles~O
+Lower~O
+onset~O
+potentials~O
+for~O
+hydrocarbon~O
+products~O
+were~O
+observed~O
+during~O
+the~O
+electrochemical~O
+reduction~O
+of~O
+carbon~O
+dioxide~O
+CO2RR~O
+on~O
+copper~B-surface modification
+particles~I-surface modification
+40-60~I-surface modification
+nm~I-surface modification
+coated~I-surface modification
+with~I-surface modification
+a~I-surface modification
+thin~I-surface modification
+layer~I-surface modification
+of~I-surface modification
+ruthenium~I-surface modification
+via~O
+galvanic~O
+displacement~O
+referred~O
+to~O
+as~O
+Ru@Cu.~O
+
+Theoretical~O
+calculations~O
+indicate~O
+that~O
+the~B-defect
+abundant~I-defect
+vacancy~I-defect
+defects~I-defect
+exposed~I-defect
+on~I-defect
+ultrathin~I-defect
+Cu~I-defect
+nanosheets~I-defect
+can~I-defect
+accelerate~I-defect
+the~I-defect
+initial~I-defect
+kinetics~I-defect
+of~I-defect
+CO~I-defect
+formation~I-defect
+during~I-defect
+the~I-defect
+CO2~I-defect
+conversion~I-defect
+process.~I-defect
+
+Cu-Pd~O
+alloy~B-alloy
+nanoparticles~O
+as~O
+highly~O
+selective~O
+catalysts~O
+for~O
+efficient~O
+electrochemical~O
+reduction~O
+of~O
+CO2~O
+to~O
+CO~O
+Although~O
+a~O
+copper~O
+catalyst~O
+has~O
+very~O
+interesting~O
+properties~O
+in~O
+CO2~O
+electroreduction~O
+reaction~O
+CO2RR~O
+the~O
+high~O
+overpotential~O
+of~O
+this~O
+reaction~O
+and~O
+low~O
+selectivity~O
+of~O
+the~O
+catalyst~O
+for~O
+a~O
+single~O
+product~O
+are~O
+major~O
+hindrances~O
+to~O
+catalyst~O
+commercialization.~O
+
+Our~O
+study~O
+reveals~O
+that~O
+the~O
+observed~O
+high~O
+performance~O
+of~O
+G-CuxO-2~O
+h~O
+electrocatalyst~O
+should~O
+not~O
+only~O
+benefit~O
+from~O
+the~O
+stabilized~O
+CO2~O
+center~O
+dot-~O
+intermediate~O
+but~O
+also~O
+contribute~O
+from~O
+the~O
+facilitated~O
+rate-limiting~O
+step~O
+of~O
+HCOO-~O
+desorption~O
+which~B-structure control
+are~I-structure control
+both~I-structure control
+closely~I-structure control
+related~I-structure control
+to~I-structure control
+an~I-structure control
+optimized~I-structure control
+Cu~I-structure control
+I~I-structure control
+content~I-structure control
+in~I-structure control
+the~I-structure control
+electrocatalyst.~I-structure control
+
+The~B-composite
+excellent~I-composite
+performance~I-composite
+of~I-composite
+high~I-composite
+activity~I-composite
+is~I-composite
+mainly~I-composite
+due~I-composite
+to~I-composite
+the~I-composite
+appearance~I-composite
+of~I-composite
+abundant~I-composite
+Sn-Cu~I-composite
+interfaces~I-composite
+after~I-composite
+Cu~I-composite
+embedded~I-composite
+into~I-composite
+Sn~I-composite
+nanoparticles.~I-composite
+
+The~O
+formed~O
+Cu~O
+nanodendrites~O
+exhibit~O
+superior~O
+catalytic~O
+activity~O
+for~O
+the~O
+electrochemical~O
+reduction~O
+of~O
+CO2~O
+showing~O
+that~O
+the~B-structure control
+unique~I-structure control
+nanostructure~I-structure control
+and~I-structure control
+the~I-structure control
+large~I-structure control
+electrochemically~I-structure control
+active~I-structure control
+surface~I-structure control
+area~I-structure control
+play~I-structure control
+critical~I-structure control
+roles~I-structure control
+in~I-structure control
+the~I-structure control
+efficient~I-structure control
+electrochemical~I-structure control
+reduction~I-structure control
+of~I-structure control
+CO2.~I-structure control
+Gas~O
+chromatography~O
+and~O
+NMR~O
+spectroscopy~O
+were~O
+employed~O
+to~O
+identify~O
+the~O
+products~O
+of~O
+the~O
+CO2~O
+reduction~O
+confirming~O
+the~O
+formation~O
+of~O
+CO~O
+CH4~O
+HCOO-~O
+CH3COO-~O
+and~O
+CH3OH.~O
+
+Herein~O
+we~O
+report~O
+that~O
+bimetallic~B-composite
+copper~I-composite
+and~I-composite
+tin~I-composite
+are~I-composite
+simultaneously~I-composite
+deposited~I-composite
+on~I-composite
+the~I-composite
+nitrogen~I-composite
+doped~I-composite
+porous~I-composite
+carbon~I-composite
+cloth~I-composite
+N-CC~I-composite
+via~O
+an~O
+efficient~O
+and~O
+facile~O
+co-electroplating~O
+strategy.~O
+
+Selective~O
+electrochemical~O
+CO2~O
+reduction~O
+on~O
+Cu-Pd~O
+heterostructure~B-composite
+In~O
+this~O
+work~O
+a~O
+novel~O
+Cu-Pd~O
+heterostructure~O
+derived~O
+from~O
+CuCl-PdOx~O
+hexagonal~O
+microplates~O
+was~O
+prepared~O
+to~O
+tune~O
+selective~O
+single~O
+hydrocarbon~O
+production~O
+from~O
+electrochemical~O
+CO2~O
+reduction.~O
+
+Due~O
+to~O
+add-in~B-structure control
+synergies~I-structure control
+of~I-structure control
+hierarchically~I-structure control
+porous~I-structure control
+structures~I-structure control
+and~I-structure control
+bimetallic~I-structure control
+elemental~I-structure control
+compositions~I-structure control
+the~O
+resultant~O
+HMMP~O
+Cu/Zn~O
+alloy~O
+catalysts~O
+remarkably~O
+promote~O
+the~O
+deep~O
+electroreduction~O
+of~O
+CO2~O
+to~O
+liquid~O
+C-2~O
+products~O
+while~O
+simultaneously~O
+suppressing~O
+the~O
+competitive~O
+proton~O
+reduction.~O
+
+DFT~O
+calculations~O
+suggest~O
+the~B-composite
+interface~I-composite
+of~I-composite
+Cu~I-composite
+planes~I-composite
+and~I-composite
+polyoxometalate~I-composite
+clusters~I-composite
+with~I-composite
+abundant~I-composite
+Cu-O-Mo~I-composite
+active~I-composite
+sites~I-composite
+promote~I-composite
+the~I-composite
+generation~I-composite
+of~I-composite
+*CH3~I-composite
+and~I-composite
+successive~I-composite
+coupling~I-composite
+with~I-composite
+CO2~I-composite
+insertion~I-composite
+showing~O
+a~O
+potential~O
+dependence~O
+of~O
+acetate~O
+production.~O
+
+Herein~O
+an~O
+experimental-theoretical~O
+study~O
+shows~O
+the~O
+existence~O
+of~O
+potentialand~O
+facet-dependent~B-structure control
+pathways~I-structure control
+for~I-structure control
+CO2~I-structure control
+reduction~I-structure control
+to~I-structure control
+CH4~I-structure control
+on~O
+Cu.~O
+
+Efficient~O
+electrocatalytic~O
+reduction~O
+of~O
+CO2~O
+to~O
+HCOOH~O
+by~O
+bimetallic~O
+In-Cu~O
+nanoparticles~O
+with~O
+controlled~B-structure control
+growth~I-structure control
+facet~I-structure control
+The~O
+electrochemical~O
+reduction~O
+of~O
+CO2~O
+to~O
+formic~O
+acid~O
+HCOOH~O
+by~O
+Indium~O
+In~O
+-based~O
+materials~O
+have~O
+been~O
+considered~O
+an~O
+effective~O
+way~O
+to~O
+solve~O
+the~O
+energy~O
+crisis.~O
+
+Atomic~O
+nickel~O
+cluster~O
+decorated~O
+defect-rich~O
+copper~O
+for~O
+enhanced~O
+C-2~O
+product~O
+selectivity~O
+in~O
+electrocatalytic~O
+CO2~O
+reduction~O
+This~O
+work~O
+describes~O
+a~O
+coordination~O
+enabled~O
+galvanic~O
+replacement~O
+method~O
+to~O
+decorate~B-surface modification
+atomic~I-surface modification
+Ni~I-surface modification
+clusters~I-surface modification
+on~I-surface modification
+defect-rich~I-surface modification
+Cu~I-surface modification
+surface~I-surface modification
+to~I-surface modification
+provide~I-surface modification
+the~I-surface modification
+first~I-surface modification
+Ni/Cu~I-surface modification
+bimetallic~I-surface modification
+system~I-surface modification
+that~O
+significantly~O
+enhances~O
+the~O
+production~O
+of~O
+C2~O
+products~O
+from~O
+electrocatalytic~O
+CO2~O
+reduction.~O
+
+Owing~B-composite
+to~I-composite
+formation~I-composite
+of~I-composite
+Bi-Cu~I-composite
+interface~I-composite
+through~I-composite
+the~I-composite
+separated~I-composite
+growth~I-composite
+of~I-composite
+Bi~I-composite
+and~I-composite
+Cu~I-composite
+atoms~I-composite
+on~I-composite
+defective~I-composite
+copper~I-composite
+foam~I-composite
+the~I-composite
+Bi-Cu~I-composite
+bimetallic~I-composite
+electrode~I-composite
+converts~I-composite
+CO2~I-composite
+to~I-composite
+formate~I-composite
+with~O
+an~O
+allured~O
+Faradaic~O
+efficiency~O
+94.~O
+
+The~B-composite
+excellent~I-composite
+CO2~I-composite
+reduction~I-composite
+to~I-composite
+CO~I-composite
+can~I-composite
+be~I-composite
+attributed~I-composite
+to~I-composite
+the~I-composite
+intimate~I-composite
+interfacial~I-composite
+interaction~I-composite
+between~I-composite
+the~I-composite
+g-C3N4~I-composite
+and~I-composite
+metal~I-composite
+oxides~I-composite
+Cu2O-FeO~I-composite
+and~I-composite
+the~I-composite
+higher~I-composite
+electrochemically~I-composite
+active~I-composite
+surface~I-composite
+area.~I-composite
+Therefore~O
+this~O
+work~O
+demonstrates~O
+the~O
+use~O
+of~O
+a~O
+g-C3N4/mixed~O
+metal~O
+oxide~O
+heterostructure~O
+as~O
+a~O
+novel~O
+and~O
+efficient~O
+nanocomposite~O
+for~O
+electrocatalytic~O
+CO2~O
+reduction~O
+in~O
+neutral~O
+aqueous~O
+medium.~O
+
+Herein~O
+novel~B-composite
+copper@poly~I-composite
+ionic~I-composite
+liquid~I-composite
+Cu@PIL~I-composite
+hybrids~I-composite
+demonstrate~I-composite
+multi-electron~I-composite
+reduction~I-composite
+>~I-composite
+2e~I-composite
+-~I-composite
+with~I-composite
+current~I-composite
+densities~I-composite
+>=~I-composite
+300~I-composite
+mA~I-composite
+cm~I-composite
+-2~I-composite
+.~I-composite
+Remarkably~O
+Cu@PIL~O
+with~O
+F-~O
+anion~O
+exhibits~O
+high~O
+C2+~O
+faradaic~O
+efficiency~O
+of~O
+58~O
+%~O
+with~O
+a~O
+high~O
+partial~O
+current~O
+density~O
+of~O
+174~O
+mA~O
+cm~O
+-2~O
+.~O
+
+The~O
+unique~B-structure control
+rice~I-structure control
+spike-like~I-structure control
+microstructure~I-structure control
+intensifies~O
+the~O
+local~O
+electric~O
+field~O
+to~O
+raise~O
+the~O
+CO2~O
+concentration~O
+at~O
+the~O
+reaction~O
+sites.~O
+
+Herein~O
+the~B-structure control
+rod-like~I-structure control
+CuBi~I-structure control
+bimetallic~I-structure control
+catalysts~I-structure control
+were~I-structure control
+synthesized~I-structure control
+by~I-structure control
+carbonization~I-structure control
+and~I-structure control
+oxidation~I-structure control
+of~I-structure control
+CuBi-MOF~I-structure control
+precursors.~I-structure control
+Owing~O
+to~O
+the~O
+formation~O
+of~O
+Bi2CuO4~O
+in~O
+the~O
+interface~O
+of~O
+catalyst~O
+the~O
+activity~O
+and~O
+selectivity~O
+of~O
+the~O
+bimetallic~O
+CuBi~O
+catalysts~O
+were~O
+greatly~O
+enhanced~O
+showing~O
+an~O
+allured~O
+high~O
+FEformate~O
+of~O
+100~O
+%~O
+at~O
+-0.~O
+
+Herein~O
+a~B-composite
+novel~I-composite
+KCu7S4/CuO~I-composite
+interfacial~I-composite
+structure~I-composite
+is~I-composite
+well~I-composite
+constructed~I-composite
+to~I-composite
+induce~I-composite
+the~I-composite
+formation~I-composite
+of~I-composite
+localized~I-composite
+charge~I-composite
+region~I-composite
+to~I-composite
+optimize~I-composite
+the~I-composite
+adsorption~I-composite
+properties~I-composite
+of~I-composite
+active~I-composite
+intermediates~I-composite
+at~I-composite
+the~I-composite
+interface~I-composite
+to~I-composite
+promote~I-composite
+CO2~I-composite
+electroreduction.~I-composite
+The~O
+catalyst~O
+of~O
+interfacial~O
+catalyst~O
+delivered~O
+boosted~O
+CO2RR~O
+activity~O
+and~O
+selectivity~O
+toward~O
+formate~O
+with~O
+a~O
+Faraday~O
+efficiency~O
+FE~O
+of~O
+71.~O
+
+Integrating~O
+the~O
+improved~O
+intrinsic~O
+activity~O
+of~O
+Bi~O
+catalytic-sites~O
+and~O
+the~B-structure control
+superiority~I-structure control
+of~I-structure control
+Cu~I-structure control
+foam~I-structure control
+in~O
+exposing~O
+more~O
+active~O
+sites~O
+and~O
+the~O
+mechanical~O
+strength~O
+the~O
+BiCu/CF~O
+electrode~O
+with~O
+optimal~O
+thickness~O
+can~O
+acquire~O
+satisfactory~O
+indicators~O
+for~O
+industrial~O
+application~O
+yielding~O
+a~O
+record~O
+formate~O
+current~O
+density~O
+of~O
+856~O
+mA~O
+cm~O
+-2~O
+higher~O
+than~O
+85%~O
+Faradic~O
+efficiency~O
+along~O
+with~O
+a~O
+remarkable~O
+stability~O
+which~O
+outperforms~O
+state-of-the-art~O
+Bi-based~O
+catalysts.~O
+
+Electrochemical~O
+reduction~O
+of~O
+carbon~O
+dioxide~O
+at~O
+low~O
+overpotential~O
+on~O
+a~O
+polyaniline/Cu2O~O
+nanocomposite~O
+based~O
+electrode~O
+The~O
+electrochemical~O
+reduction~O
+of~O
+CO2~O
+using~O
+Cu2O~O
+nanoparticle~O
+decorated~O
+polyaniline~O
+matrix~O
+PANI/Cu2O~B-composite
+in~O
+0.~O
+
+The~O
+Cu/CeO2~B-structure control
+catalysts~I-structure control
+with~I-structure control
+different~I-structure control
+morphologies~I-structure control
+were~O
+synthesized~O
+and~O
+it~O
+is~O
+discovered~O
+that~O
+the~O
+nanorod~O
+Cu/CeO2~O
+catalyst~O
+exhibits~O
+high~O
+selectivity~O
+for~O
+CO2-to-CH4~O
+with~O
+the~O
+highest~O
+turnover~O
+frequency~O
+for~O
+CH4~O
+production~O
+among~O
+the~O
+samples.~O
+
+The~O
+density~O
+functional~O
+theory~O
+computations~O
+unravel~O
+that~O
+the~B-atomic level dispersion
+exceptionally~I-atomic level dispersion
+high~I-atomic level dispersion
+CO2~I-atomic level dispersion
+electrocatalytic~I-atomic level dispersion
+performance~I-atomic level dispersion
+of~I-atomic level dispersion
+the~I-atomic level dispersion
+CuFe~I-atomic level dispersion
+nitrogen-carbon~I-atomic level dispersion
+electrode~I-atomic level dispersion
+arises~I-atomic level dispersion
+from~I-atomic level dispersion
+its~I-atomic level dispersion
+favorable~I-atomic level dispersion
+local~I-atomic level dispersion
+coordination~I-atomic level dispersion
+environment~I-atomic level dispersion
+and~I-atomic level dispersion
+electronic~I-atomic level dispersion
+structure~I-atomic level dispersion
+giving~I-atomic level dispersion
+rise~I-atomic level dispersion
+to~I-atomic level dispersion
+cooperative~I-atomic level dispersion
+metal~I-atomic level dispersion
+and~I-atomic level dispersion
+pyridine~I-atomic level dispersion
+N~I-atomic level dispersion
+active~I-atomic level dispersion
+sites~I-atomic level dispersion
+for~I-atomic level dispersion
+electrochemical~I-atomic level dispersion
+CO2~I-atomic level dispersion
+reduction~I-atomic level dispersion
+to~I-atomic level dispersion
+CO.~I-atomic level dispersion
+Doi:10.~O
+
+In~O
+this~O
+paper~O
+a~O
+novel~O
+nano-sized~B-structure control
+Bi-based~I-structure control
+electrocatalyst~I-structure control
+deposited~I-structure control
+on~I-structure control
+a~I-structure control
+Cu~I-structure control
+foil~I-structure control
+has~O
+been~O
+synthesized~O
+which~O
+can~O
+be~O
+used~O
+as~O
+a~O
+cathode~O
+for~O
+electrochemical~O
+reduction~O
+of~O
+CO2~O
+to~O
+formate~O
+with~O
+a~O
+low~O
+overpotential~O
+0.~O
+
+The~B-composite
+Sn/f-Cu~I-composite
+electrode~I-composite
+exhibits~I-composite
+excellent~I-composite
+catalytic~I-composite
+activity~I-composite
+for~I-composite
+CO2~I-composite
+reduction~I-composite
+compared~I-composite
+with~I-composite
+the~I-composite
+Cu~I-composite
+foam~I-composite
+electrode~I-composite
+and~I-composite
+the~I-composite
+Sn~I-composite
+plate~I-composite
+electrode.~I-composite
+The~O
+average~O
+current~O
+density~O
+and~O
+the~O
+production~O
+rate~O
+of~O
+formate~O
+for~O
+the~O
+Sn/f-Cu~O
+electrode~O
+are~O
+more~O
+than~O
+twice~O
+those~O
+for~O
+the~O
+Sn~O
+plate~O
+electrode~O
+during~O
+electrochemical~O
+reduction~O
+of~O
+CO2.~O
+
+In-situ~O
+grown~O
+nanoporous~O
+Zn-Cu~O
+catalysts~O
+on~O
+brass~O
+foils~O
+for~O
+enhanced~O
+electrochemical~O
+reduction~O
+of~O
+carbon~O
+dioxide~O
+In-situ~O
+grown~O
+nanoporous~B-structure control
+Zn-Cu~I-structure control
+catalysts~I-structure control
+were~O
+prepared~O
+by~O
+simply~O
+annealing~O
+a~O
+commercial~O
+brass~O
+foil~O
+at~O
+500~O
+degrees~O
+C~O
+in~O
+air~O
+followed~O
+by~O
+electrochemical~O
+reduction.~O
+
+The~O
+prepared~O
+Cu~O
+NPs~O
+exhibit~O
+porous~B-structure control
+morphology~I-structure control
+in~O
+pure~O
+metallic~O
+state~O
+with~O
+high~O
+surface~O
+area~O
+of~O
+630~O
+m~O
+2~O
+.~O
+
+Herein~O
+we~B-defect
+developed~I-defect
+a~I-defect
+facile~I-defect
+one-pot~I-defect
+approach~I-defect
+to~I-defect
+prepare~I-defect
+Cu~I-defect
+delta+~I-defect
+-rich~I-defect
+catalyst~I-defect
+by~I-defect
+doping~I-defect
+phosphorus.~I-defect
+Enhanced~O
+performance~O
+and~O
+tunable~O
+product~O
+selectivities~O
+are~O
+achieved~O
+due~O
+to~O
+the~O
+electron~O
+donor-acceptor~O
+interaction~O
+based~O
+on~O
+phosphorus~O
+content~O
+in~O
+series.~O
+
+Results~O
+suggest~O
+that~O
+the~O
+Faradaic~O
+efficiency~O
+FE~O
+for~O
+multicarbon~O
+products~O
+could~O
+be~O
+tuned~O
+by~O
+varying~B-structure control
+the~I-structure control
+loading~I-structure control
+of~I-structure control
+Zn~I-structure control
+in~I-structure control
+the~I-structure control
+CuZnx/NGN.~I-structure control
+
+Here~O
+we~B-structure control
+experimentally~I-structure control
+studied~I-structure control
+the~I-structure control
+relationship~I-structure control
+between~I-structure control
+sharpness~I-structure control
+of~I-structure control
+Sn/Cu~I-structure control
+catalysts~I-structure control
+with~I-structure control
+their~I-structure control
+activity~I-structure control
+through~I-structure control
+the~I-structure control
+fabrication~I-structure control
+of~I-structure control
+Sn/Cu~I-structure control
+foil~I-structure control
+rods~I-structure control
+and~I-structure control
+cones.~I-structure control
+The~O
+Sn/Cu~O
+catalysts~O
+were~O
+fabricated~O
+by~O
+template-based~O
+nanoimprint~O
+lithography~O
+electroplating~O
+of~O
+Cu~O
+film~O
+and~O
+electroless~O
+coating~O
+of~O
+Sn~O
+nanoparticles.~O
+
+The~B-composite
+CuS/N~I-composite
+S-rGO~I-composite
+electrode~I-composite
+exhibits~I-composite
+excellent~I-composite
+performance~I-composite
+for~I-composite
+CO2RR~I-composite
+is~I-composite
+attributed~I-composite
+to~I-composite
+the~I-composite
+synergistic~I-composite
+effect~I-composite
+between~I-composite
+N~I-composite
+S-rGO~I-composite
+and~I-composite
+CuS~I-composite
+and~O
+graphene~O
+can~O
+improve~O
+stability~O
+of~O
+composite.~O
+
+The~B-composite
+excellent~I-composite
+performance~I-composite
+of~I-composite
+Cu2O/NCS~I-composite
+is~I-composite
+attributed~I-composite
+to~I-composite
+the~I-composite
+high~I-composite
+dispersion~I-composite
+of~I-composite
+cubic~I-composite
+Cu2O~I-composite
+nanocrystals~I-composite
+and~I-composite
+the~I-composite
+abundant~I-composite
+pyridinic-N~I-composite
+moieties~I-composite
+in~I-composite
+NCS.~I-composite
+
+Herein~O
+we~O
+reported~O
+a~O
+facile~O
+and~O
+scalable~O
+strategy~O
+to~O
+prepare~O
+the~O
+Cu~B-atomic level dispersion
+single-atom~I-atomic level dispersion
+catalyst~I-atomic level dispersion
+Cu~O
+SAs/NC~O
+with~O
+exceptional~O
+CO~O
+production~O
+performances.~O
+
+Electrochemical~O
+reduction~O
+of~O
+CO2~O
+on~O
+electrodeposited~O
+Cu~O
+electrodes~O
+crystalline~O
+phase~O
+sensitivity~O
+on~O
+selectivity~O
+The~O
+product~B-surface modification
+distribution~I-surface modification
+of~I-surface modification
+electrochemical~I-surface modification
+reduction~I-surface modification
+of~I-surface modification
+CO2~I-surface modification
+can~I-surface modification
+be~I-surface modification
+altered~I-surface modification
+by~I-surface modification
+modifying~I-surface modification
+the~I-surface modification
+surface~I-surface modification
+of~I-surface modification
+pure~I-surface modification
+copper~I-surface modification
+by~I-surface modification
+deposition.~I-surface modification
+In~O
+this~O
+study~O
+chronoamperometric~O
+deposition~O
+of~O
+Cu~O
+on~O
+Cu~O
+Cu/Cu~O
+was~O
+carried~O
+out~O
+at~O
+two~O
+different~O
+CuSO4~O
+bath~O
+concentrations~O
+0.~O
+
+This~B-defect
+increased~I-defect
+selectivity~I-defect
+towards~I-defect
+the~I-defect
+formation~I-defect
+of~I-defect
+C-2~I-defect
+chemicals~I-defect
+meanwhile~I-defect
+suppressed~I-defect
+C-1~I-defect
+chemicals~I-defect
+are~I-defect
+attributed~I-defect
+to~I-defect
+the~I-defect
+presence~I-defect
+of~I-defect
+surface~I-defect
+defects~I-defect
+and~I-defect
+a~I-defect
+large~I-defect
+number~I-defect
+of~I-defect
+grain~I-defect
+boundaries~I-defect
+on~O
+the~O
+CuO-derived~O
+porous~O
+Cu~O
+nanoribbon~O
+arrays~O
+electrode.~O
+
+Such~B-composite
+a~I-composite
+configuration~I-composite
+enables~I-composite
+the~I-composite
+outer~I-composite
+layer~I-composite
+to~I-composite
+act~I-composite
+as~I-composite
+a~I-composite
+filter~I-composite
+that~I-composite
+protects~I-composite
+the~I-composite
+Cu~I-composite
+surface~I-composite
+from~I-composite
+adsorption~I-composite
+of~I-composite
+undesirable~I-composite
+species~I-composite
+enhances~I-composite
+its~I-composite
+electrocatalytic~I-composite
+performance~I-composite
+and~I-composite
+improves~I-composite
+its~I-composite
+viability~I-composite
+in~I-composite
+CO2~I-composite
+electroreduction~I-composite
+reaction.~I-composite
+The~O
+enhanced~O
+selectivity~O
+of~O
+the~O
+Cu/OLC~O
+catalyst~O
+towards~O
+the~O
+C2H4~O
+production~O
+is~O
+most~O
+likely~O
+related~O
+to~O
+the~O
+enhanced~O
+electrocatalytic~O
+activity~O
+of~O
+the~O
+OLC~O
+support~O
+towards~O
+the~O
+CO2~O
+electroreduction~O
+to~O
+CO.~O
+
+Aqueous-phase~O
+electrochemical~O
+reduction~O
+of~O
+CO2~O
+based~O
+on~O
+SnO2-CuO~O
+nanocomposites~O
+with~O
+improved~O
+catalytic~O
+activity~O
+and~O
+selectivity~O
+In~O
+the~O
+present~O
+study~O
+we~O
+demonstrate~O
+that~O
+the~O
+activity~O
+and~O
+selectivity~O
+of~O
+SnO2~O
+nanocatalysts~O
+during~O
+the~O
+aqueous-phase~O
+electrochemical~O
+reduction~O
+CO2~O
+can~O
+be~O
+effectively~O
+tailored~O
+by~O
+coupling~B-structure control
+of~I-structure control
+nanostructured~I-structure control
+CuO~I-structure control
+to~I-structure control
+form~I-structure control
+SnO2-CuO~I-structure control
+nanocomposites.~I-structure control
+
+A~B-composite
+rational~I-composite
+catalyst~I-composite
+design~I-composite
+strategy~I-composite
+for~I-composite
+further~I-composite
+improvement~I-composite
+of~I-composite
+the~I-composite
+ZnO/CNT~I-composite
+catalyst~I-composite
+is~I-composite
+to~I-composite
+dope~I-composite
+with~I-composite
+copper~I-composite
+to~I-composite
+strengthen~I-composite
+the~I-composite
+binding~I-composite
+energy~I-composite
+of~I-composite
+the~I-composite
+CO~I-composite
+intermediate~I-composite
+which~I-composite
+could~I-composite
+improve~I-composite
+the~I-composite
+activity.~I-composite
+In~O
+this~O
+work~O
+a~O
+series~O
+of~O
+CuZnO/CNT~O
+catalysts~O
+with~O
+intimate~O
+Cu~O
+and~O
+Zn~O
+contact~O
+and~O
+various~O
+Cu~O
+loadings~O
+are~O
+prepared.~O
+
+The~B-composite
+enhanced~I-composite
+ethanol~I-composite
+formation~I-composite
+is~I-composite
+ascribed~I-composite
+to~I-composite
+more~I-composite
+CO~I-composite
+formation~I-composite
+on~I-composite
+Au~I-composite
+sites~I-composite
+to~I-composite
+promote~I-composite
+C-C~I-composite
+coupling.~I-composite
+Our~O
+study~O
+demonstrates~O
+an~O
+effective~O
+approach~O
+to~O
+develop~O
+Cu-based~O
+electrocatalysts~O
+for~O
+ethanol~O
+formation~O
+from~O
+CO2.~O
+
+Consequently~O
+in~O
+this~O
+work~O
+we~O
+synthesise~O
+characterise~O
+and~O
+preliminarily~O
+evaluate~O
+bimetallic~O
+Cu-based~O
+hollow~O
+fibre~O
+electrodes~O
+with~O
+a~B-structure control
+compact~I-structure control
+three-dimensional~I-structure control
+geometry~I-structure control
+to~O
+overcome~O
+mass~O
+transfer~O
+limitations~O
+and~O
+to~O
+enhance~O
+the~O
+electrochemical~O
+conversion~O
+of~O
+CO2.~O
+
+Clear~B-structure control
+differences~I-structure control
+between~I-structure control
+the~I-structure control
+catalysts~I-structure control
+derived~I-structure control
+from~I-structure control
+CuS~I-structure control
+Cu2S~I-structure control
+or~I-structure control
+CuO~I-structure control
+nanoparticles~I-structure control
+were~I-structure control
+observed~I-structure control
+which~I-structure control
+was~I-structure control
+ascribed~I-structure control
+to~I-structure control
+the~I-structure control
+presence~I-structure control
+of~I-structure control
+residual~I-structure control
+sulfur~I-structure control
+in~I-structure control
+the~I-structure control
+catalysts.~I-structure control
+Doi:10.~O
+
+The~O
+presence~O
+of~O
+Cu1+~O
+and~O
+the~O
+unique~B-structure control
+electrode~I-structure control
+morphology~I-structure control
+may~O
+simultaneously~O
+lead~O
+to~O
+the~O
+enhanced~O
+electrochemical~O
+activity.~O
+
+As~B-structure control
+the~I-structure control
+Cu~I-structure control
+content~I-structure control
+increased~I-structure control
+the~I-structure control
+morphologies~I-structure control
+of~I-structure control
+Ag-Cu~I-structure control
+dendrite~I-structure control
+catalysts~I-structure control
+changed~I-structure control
+significantly~I-structure control
+from~I-structure control
+round~I-structure control
+to~I-structure control
+flower-like~I-structure control
+shapes~I-structure control
+accompanied~I-structure control
+by~I-structure control
+a~I-structure control
+decrease~I-structure control
+in~I-structure control
+branch~I-structure control
+size~I-structure control
+of~I-structure control
+the~I-structure control
+dendritic~I-structure control
+structure.~I-structure control
+A~O
+crystallographic~O
+study~O
+of~O
+the~O
+Ag-Cu~O
+dendrite~O
+catalysts~O
+demonstrated~O
+the~O
+formation~O
+of~O
+Ag~O
+and~O
+Cu~O
+co-deposits~O
+while~O
+a~O
+compositional~O
+characterization~O
+confirmed~O
+the~O
+presence~O
+of~O
+a~O
+Cu-rich~O
+surface.~O
+
+Moreover~O
+the~O
+detailed~O
+density~O
+functional~O
+theory~O
+DFT~O
+calculations~O
+have~O
+demonstrated~O
+that~O
+the~B-composite
+high~I-composite
+activity~I-composite
+and~I-composite
+selectivity~I-composite
+for~I-composite
+HCOOH~I-composite
+production~I-composite
+was~I-composite
+attributed~I-composite
+to~I-composite
+the~I-composite
+synergy~I-composite
+effects~I-composite
+of~I-composite
+exposed~I-composite
+Cu~I-composite
+111~I-composite
+facets~I-composite
+and~I-composite
+carbon~I-composite
+substrate.~I-composite
+
+Construction~O
+of~O
+atomically~B-atomic level dispersion
+dispersed~I-atomic level dispersion
+Cu-N-4~O
+sites~O
+via~O
+engineered~O
+coordination~O
+environment~O
+for~O
+high-efficient~O
+CO2~O
+electroreduction~O
+Although~O
+considerable~O
+progress~O
+has~O
+been~O
+achieved~O
+by~O
+Cu~O
+nanoparticles~O
+for~O
+catalyzing~O
+CO2~O
+reduction~O
+reaction~O
+CO2RR~O
+Cu~O
+single~O
+atom~O
+catalysts~O
+Cu~O
+SACs~O
+are~O
+generally~O
+suffered~O
+from~O
+inferior~O
+performance~O
+to~O
+that~O
+of~O
+widely~O
+investigated~O
+Fe~O
+Co~O
+Ni~O
+SACs.~O
+
+Compared~O
+with~O
+the~O
+oxide-derived~O
+copper~O
+and~O
+the~O
+copper-based~O
+carbon~O
+material~O
+derivative~O
+grown~O
+in~O
+situ~O
+on~O
+oxidized~O
+copper~O
+foils~O
+the~O
+as-prepared~O
+copper-indium~O
+electrocatalyst~O
+with~O
+a~O
+self-supporting~O
+structure~O
+high~B-defect
+roughness~I-defect
+factor~I-defect
+and~I-defect
+rich~I-defect
+lattice~I-defect
+defects~I-defect
+exhibits~O
+a~O
+superior~O
+CO~O
+Faradaic~O
+efficiency~O
+of~O
+95%~O
+and~O
+good~O
+stability~O
+for~O
+the~O
+36-h~O
+potentiostatic~O
+test~O
+at~O
+-0.~O
+
+To~O
+this~O
+end~O
+a~O
+composite~O
+of~O
+indium~O
+species~O
+on~O
+CuO~O
+InOx@CuO~O
+was~O
+facilely~O
+synthesized~O
+for~O
+CO2RR~O
+and~O
+it~O
+is~O
+found~O
+that~O
+the~O
+selectivity~O
+of~O
+the~O
+target~O
+product~O
+could~O
+be~O
+accurately~O
+tuned~O
+through~O
+incorporating~B-structure control
+post-transition~I-structure control
+species~I-structure control
+with~I-structure control
+Cu-based~I-structure control
+materials;~I-structure control
+the~O
+desirable~O
+Faraday~O
+efficiencies~O
+of~O
+over~O
+90%~O
+with~O
+a~O
+maximum~O
+value~O
+of~O
+97.~O
+
+The~B-structure control
+better~I-structure control
+performance~I-structure control
+was~I-structure control
+mainly~I-structure control
+attributed~I-structure control
+to~I-structure control
+the~I-structure control
+unique~I-structure control
+prism~I-structure control
+feature~I-structure control
+as~I-structure control
+it~I-structure control
+provided~I-structure control
+abundant~I-structure control
+corner-~I-structure control
+and~I-structure control
+edge-based~I-structure control
+low-coordinated~I-structure control
+active~I-structure control
+reaction~I-structure control
+sites.~I-structure control
+
+The~O
+study~O
+shows~O
+that~O
+the~B-composite
+impregnation~I-composite
+of~I-composite
+Cu2O~I-composite
+on~I-composite
+MWCNTs~I-composite
+affects~I-composite
+the~I-composite
+structural~I-composite
+and~I-composite
+electronic~I-composite
+properties~I-composite
+of~I-composite
+the~I-composite
+electrode~I-composite
+which~I-composite
+in~I-composite
+turn~I-composite
+improves~I-composite
+both~I-composite
+the~I-composite
+activity~I-composite
+and~I-composite
+stability~I-composite
+of~I-composite
+the~I-composite
+catalyst~I-composite
+as~O
+confirmed~O
+by~O
+chronoamperometry.~O
+
+HKUST-1-derived~O
+highly~B-structure control
+ordered~I-structure control
+Cu~I-structure control
+nanosheets~I-structure control
+with~O
+enriched~O
+edge~O
+sites~O
+stepped~O
+211~O
+surfaces~O
+and~O
+200~O
+facets~O
+for~O
+effective~O
+electrochemical~O
+CO2~O
+reduction~O
+A~O
+novel~O
+electrode~O
+composed~O
+of~O
+Cu~O
+nanosheets~O
+constructed~O
+from~O
+nanoparticles~O
+was~O
+synthesized~O
+by~O
+in~O
+situ~O
+electrochemical~O
+derivation~O
+from~O
+the~O
+metal-organic~O
+framework~O
+MOF~O
+HKUST-1.~O
+
+C3N4/~B-composite
+Co~I-composite
+OH~I-composite
+2~I-composite
+/Cu~I-composite
+OH~I-composite
+2~I-composite
+showed~I-composite
+superior~I-composite
+performance~I-composite
+with~I-composite
+electrocatalytic~I-composite
+activity~I-composite
+more~I-composite
+than~I-composite
+three~I-composite
+times~I-composite
+of~I-composite
+C3N4/~I-composite
+Co/Co~I-composite
+OH~I-composite
+2~I-composite
+.~I-composite
+The~O
+product~O
+of~O
+CO2~O
+electro-reduction~O
+was~O
+identified~O
+using~O
+a~O
+rotating~O
+ring~O
+disc~O
+electrode~O
+RRDE~O
+system~O
+to~O
+be~O
+primarily~O
+formate.~O
+
+Bimetallic~B-composite
+CuBi~I-composite
+nanoparticles~I-composite
+are~I-composite
+demonstrated~I-composite
+as~I-composite
+electrocatalytical~I-composite
+active~I-composite
+centers.~I-composite
+By~O
+varying~O
+the~O
+Cu:~O
+Bi~O
+atomic~O
+fraction~O
+we~O
+report~O
+for~O
+the~O
+first~O
+time~O
+to~O
+tune~O
+the~O
+ECO2RR~O
+products~O
+selectivity~O
+from~O
+CO~O
+to~O
+formate.~O
+
+Formation~O
+of~O
+Cu~O
+nanostructured~O
+electrode~O
+surfaces~O
+by~O
+an~O
+annealing-electroreduction~O
+procedure~O
+to~O
+achieve~O
+high-efficiency~O
+CO2~O
+electroreduction~O
+An~O
+effective~O
+fibrous~B-structure control
+Cu~I-structure control
+electrode~I-structure control
+surface~I-structure control
+created~O
+using~O
+a~O
+procedure~O
+combining~O
+high-temperature~O
+annealing~O
+and~O
+electroreduction~O
+is~O
+explored~O
+for~O
+CO2~O
+reduction~O
+to~O
+produce~O
+useful~O
+fuels.~O
+
+Electrochemical~O
+and~O
+FTIR~O
+spectroscopic~O
+study~O
+of~O
+CO2~O
+reduction~O
+at~O
+a~O
+nanostructured~B-structure control
+Cu/reduced~O
+graphene~O
+oxide~O
+thin~O
+film~O
+Here~O
+we~O
+report~O
+a~O
+facile~O
+approach~O
+to~O
+synthesize~O
+a~O
+novel~O
+nanostructured~O
+thin~O
+film~O
+comprising~O
+Cu~O
+nanoparticles~O
+NPs~O
+and~O
+reduced~O
+graphene~O
+oxide~O
+rGO~O
+on~O
+a~O
+glassy~O
+carbon~O
+electrode~O
+GCE~O
+via~O
+the~O
+direct~O
+electrochemical~O
+reduction~O
+of~O
+a~O
+mixture~O
+of~O
+cupper~O
+and~O
+graphene~O
+oxide~O
+GO~O
+precursors.~O
+
+A~O
+strategy~O
+to~O
+eliminate~O
+carbon~O
+deposition~O
+on~O
+a~O
+copper~O
+electrode~O
+in~O
+order~O
+to~O
+enhance~O
+its~O
+stability~O
+in~O
+CO2RR~O
+catalysis~O
+by~O
+introducing~B-defect
+crystal~I-defect
+defects~I-defect
+Cu~O
+is~O
+the~O
+only~O
+electrocatalyst~O
+that~O
+converts~O
+CO2~O
+into~O
+appreciable~O
+quantities~O
+of~O
+hydrocarbons.~O
+
+The~B-composite
+Cu-CeOx~I-composite
+interface~I-composite
+produced~I-composite
+using~I-composite
+this~I-composite
+method~I-composite
+offers~I-composite
+synergistic~I-composite
+geometric~I-composite
+and~I-composite
+electronic~I-composite
+effects~I-composite
+which~I-composite
+optimize~I-composite
+the~I-composite
+adsorption~I-composite
+strength~I-composite
+of~I-composite
+reaction~I-composite
+intermediates~I-composite
+for~I-composite
+the~I-composite
+electroreduction~I-composite
+of~I-composite
+CO2~I-composite
+to~I-composite
+CO.~I-composite
+In~O
+a~O
+flow~O
+cell~O
+configuration~O
+a~O
+current~O
+density~O
+of~O
+100~O
+mA~O
+cm~O
+-2~O
+and~O
+a~O
+CO~O
+faradaic~O
+efficiency~O
+of~O
+59.~O
+
+The~O
+hydrocarbons~O
+C2H4~O
+and~O
+C2H6~O
+are~O
+formed~O
+in~O
+the~O
+presence~O
+of~O
+honeycomb-like~O
+and~O
+foam~O
+structures~O
+whilst~O
+CH4~O
+formation~O
+is~O
+suppressed~O
+and~O
+it~O
+was~O
+concluded~O
+that~O
+the~B-structure control
+structure~I-structure control
+of~I-structure control
+the~I-structure control
+copper~I-structure control
+electrodeposits~I-structure control
+has~I-structure control
+a~I-structure control
+major~I-structure control
+effect~I-structure control
+on~I-structure control
+the~I-structure control
+electrochemical~I-structure control
+conversion~I-structure control
+of~I-structure control
+CO2.~I-structure control
+
+Highly-active~O
+copper~O
+oxide/copper~O
+electrocatalysts~O
+induced~O
+from~O
+hierarchical~O
+copper~O
+oxide~O
+nanospheres~O
+for~O
+carbon~O
+dioxide~O
+reduction~O
+reaction~O
+Novel~O
+hierarchical~B-structure control
+copper~I-structure control
+oxide~I-structure control
+CuXO~I-structure control
+nanosphere~I-structure control
+particles~O
+are~O
+synthesized~O
+and~O
+then~O
+coated~O
+onto~O
+gas~O
+diffusion~O
+layer~O
+carbon~O
+to~O
+form~O
+a~O
+working~O
+electrode~O
+for~O
+catalyzing~O
+CO2~O
+electroreduction.~O
+
+We~O
+present~O
+a~O
+new~O
+method~O
+for~O
+the~O
+in-situ~B-surface modification
+modification~I-surface modification
+of~I-surface modification
+a~I-surface modification
+copper~I-surface modification
+catalyst~I-surface modification
+by~O
+adding~O
+oxygen~O
+to~O
+the~O
+reactant~O
+gas.~O
+
+Cu~B-composite
+layers~I-composite
+prepared~I-composite
+by~I-composite
+underpotential~I-composite
+deposition~I-composite
+induced~I-composite
+charge~I-composite
+transfer~I-composite
+from~I-composite
+Pd~I-composite
+to~I-composite
+Cu~I-composite
+and~I-composite
+a~I-composite
+downward~I-composite
+shift~I-composite
+of~I-composite
+the~I-composite
+average~I-composite
+d-band~I-composite
+center~I-composite
+of~I-composite
+the~I-composite
+catalyst~I-composite
+relative~I-composite
+to~I-composite
+the~I-composite
+Fermi~I-composite
+level.~I-composite
+As~O
+a~O
+result~O
+the~O
+Cu-modified~O
+Pd~O
+catalyst~O
+demonstrated~O
+improved~O
+CO~O
+tolerance~O
+and~O
+an~O
+increase~O
+in~O
+Faradaic~O
+efficiency~O
+for~O
+formate~O
+production~O
+without~O
+sacrificing~O
+CO2~O
+reduction~O
+activity.~O
+
+Graphene/ZnO/Cu2O~O
+electrocatalyst~O
+for~O
+selective~O
+conversion~O
+of~O
+CO2~O
+into~O
+n-propanol~O
+In~O
+this~O
+work~O
+Graphene~B-composite
+GN~I-composite
+/ZnO/Cu2O~I-composite
+electrodes~O
+were~O
+fabricated~O
+and~O
+tested~O
+for~O
+CO2~O
+electroreduction~O
+in~O
+0.~O
+
+The~B-structure control
+Cu~I-structure control
+nanostructured~I-structure control
+electrode~I-structure control
+shows~I-structure control
+much~I-structure control
+higher~I-structure control
+current~I-structure control
+density~I-structure control
+than~I-structure control
+polycrystalline~I-structure control
+Cu.~I-structure control
+By~O
+sputter~O
+coating~O
+a~O
+thin~O
+layer~O
+of~O
+Au~O
+on~O
+the~O
+Cu~O
+nanowires~O
+the~O
+Faradaic~O
+efficiency~O
+FE~O
+of~O
+CO~O
+can~O
+exceed~O
+30%.~O
+
+The~O
+electrochemical~O
+production~O
+of~O
+C-2/C-3~O
+species~O
+from~O
+carbon~O
+dioxide~O
+on~O
+copper-modified~O
+boron-doped~O
+diamond~O
+electrodes~O
+We~O
+report~O
+on~O
+the~O
+first~O
+observation~O
+of~O
+the~O
+production~O
+of~O
+C-2/C-3~O
+species~O
+from~O
+the~O
+electrochemical~O
+reduction~O
+of~O
+CO2~O
+at~O
+the~O
+surfaces~O
+of~O
+copper-modified~B-composite
+boron-doped~I-composite
+diamond~I-composite
+Cu-BDD~O
+electrodes~O
+in~O
+aqueous~O
+media~O
+at~O
+room~O
+temperature~O
+and~O
+ambient~O
+pressure.~O
+
+The~O
+formation~O
+of~O
+AuxCu1-x~O
+alloy~B-alloy
+thin~O
+films~O
+and/or~O
+the~O
+introduction~O
+of~O
+an~O
+O-2~O
+atmosphere~O
+during~O
+deposition~O
+does~O
+not~O
+yield~O
+to~O
+any~O
+marked~O
+increase~O
+of~O
+the~O
+formation~O
+of~O
+carbonaceous~O
+compounds~O
+and~O
+CO~O
+and~O
+H-2~O
+were~O
+the~O
+only~O
+two~O
+products~O
+formed~O
+along~O
+with~O
+formate~O
+detected~O
+in~O
+trace~O
+amounts~O
+<~O
+1%~O
+.~O
+
+Detailed~O
+investigation~O
+has~O
+revealed~O
+that~O
+the~O
+electrocatalytic~O
+capability~O
+of~O
+this~O
+catalyst~O
+can~O
+be~O
+attributed~O
+to~O
+the~O
+boundaries~O
+between~O
+Cu~O
+and~O
+Cd~O
+that~O
+could~O
+provide~O
+sufficient~O
+active~O
+sites~O
+for~O
+the~O
+CO2RR~O
+and~O
+the~O
+formation~O
+of~O
+Cu2Cd~O
+alloy~B-alloy
+that~O
+could~O
+enhance~O
+the~O
+binding~O
+energy~O
+between~O
+the~O
+catalyst~O
+and~O
+the~O
+intermediate.~O
+
+Electrochemical~O
+reduction~O
+of~O
+carbon~O
+dioxide~O
+on~O
+copper-based~O
+nanocatalysts~O
+using~O
+the~O
+rotating~O
+ring-disc~O
+electrode~O
+A~O
+continuous~O
+hydrothermal~O
+flow~O
+synthesis~O
+method~O
+was~O
+used~O
+to~O
+produce~O
+copper~O
+I~O
+oxide~O
+nanoparticles~B-structure control
+which~O
+were~O
+used~O
+as~O
+an~O
+electrocatalyst~O
+for~O
+the~O
+reduction~O
+of~O
+CO2.~O
+
+In~O
+this~O
+work~O
+as~O
+a~O
+proof-of-concept~O
+experiment~O
+one~O
+effective~O
+protocol~O
+is~O
+first~O
+identified~O
+to~O
+drive~O
+the~O
+positive~O
+evolution~O
+of~O
+surface~O
+contents~O
+on~O
+nanoporous~B-structure control
+Cu-In~O
+by~O
+electrochemical~O
+training~O
+in~O
+KHCO3~O
+electrolyte.~O
+
+In~O
+this~O
+study~O
+we~O
+used~O
+a~B-composite
+stepwise~I-composite
+synthesis~I-composite
+method~I-composite
+to~I-composite
+prepare~I-composite
+CuO~I-composite
+nanoflake~I-composite
+@Co3O4~I-composite
+nanowire~I-composite
+composite~I-composite
+nano-arrays~I-composite
+denote~O
+as~O
+CuO/Co3O4~O
+composite~O
+which~O
+show~O
+an~O
+excellent~O
+electrochemical~O
+performance.~O
+
+The~O
+porous~O
+structure~O
+of~O
+the~O
+MOF~O
+serves~O
+as~O
+a~O
+template~O
+for~O
+the~O
+synthesis~O
+of~O
+isolated~B-atomic level dispersion
+Cu~I-atomic level dispersion
+NP~I-atomic level dispersion
+clusters~I-atomic level dispersion
+with~O
+high~O
+catalytic~O
+activities~O
+and~O
+high~O
+efficiencies~O
+for~O
+the~O
+CH4~O
+production~O
+in~O
+the~O
+electrochemical~O
+CO2~O
+reduction~O
+reaction.~O
+
+Due~O
+to~O
+the~O
+imidazolyl~O
+groups~O
+connected~O
+to~O
+the~O
+surface~O
+of~O
+ionic~O
+liquid~O
+functionalized~O
+graphite~O
+sheets~O
+ILGS~O
+Cu2O~O
+nanocubes~O
+were~O
+induced~O
+to~O
+grow~O
+on~O
+ILGS~O
+to~O
+obtain~O
+Cu2O/ILGS~O
+composites~O
+where~O
+the~B-structure control
+size~I-structure control
+of~I-structure control
+Cu2O~I-structure control
+can~I-structure control
+be~I-structure control
+controlled~I-structure control
+by~I-structure control
+adjusting~I-structure control
+the~I-structure control
+concentration~I-structure control
+of~I-structure control
+Cu2+.~I-structure control
+
+Decoration~O
+of~O
+N-functionalized~O
+graphene~O
+nanoflakes~O
+with~O
+copper-based~O
+nanoparticles~O
+for~O
+high~O
+selectivity~O
+CO2~O
+electroreduction~O
+towards~O
+formate~O
+The~O
+present~O
+electrocatalyst~O
+consists~O
+of~O
+copper~O
+and~O
+copper~B-structure control
+sulfide~I-structure control
+nanoparticles~I-structure control
+dispersed~O
+on~O
+graphene~O
+nanoflakes~O
+GNFs~O
+a~O
+stack~O
+of~O
+5-20~O
+highly~O
+crystalline~O
+graphene~O
+layers~O
+having~O
+typical~O
+side~O
+lengths~O
+of~O
+100~O
+by~O
+100~O
+nm.~O
+
+1%~O
+emphasized~O
+the~B-structure control
+in-situ~I-structure control
+formation~I-structure control
+of~I-structure control
+Cu2O~I-structure control
+from~I-structure control
+the~I-structure control
+redox~I-structure control
+active~I-structure control
+centre~I-structure control
+present~I-structure control
+in~I-structure control
+La2CuO4.~I-structure control
+
+The~O
+crystal~O
+structures~O
+of~O
+both~O
+complexes~O
+have~O
+been~O
+determined~O
+by~O
+single-crystal~O
+X-ray~O
+diffraction;~O
+1~O
+and~O
+2~O
+have~O
+binuclear~O
+structures~O
+and~O
+Cu~B-atomic level dispersion
+II~I-atomic level dispersion
+centres~I-atomic level dispersion
+in~O
+both~O
+complexes~O
+adopt~O
+a~O
+distorted~O
+square~O
+pyramidal~O
+geometry.~O
+
+Herein~O
+nanostructured~B-structure control
+self-supporting~I-structure control
+Cu~I-structure control
+electrodes~I-structure control
+with~O
+Cu~O
+foam~O
+as~O
+the~O
+substrate~O
+with~O
+progressive~O
+morphologies~O
+of~O
+nanowires~O
+CuNW~O
+nanosheets~O
+CuNS~O
+and~O
+nanoflowers~O
+CuNF~O
+are~O
+in-situ~O
+prepared~O
+by~O
+simply~O
+adjusting~O
+the~O
+reaction~O
+time~O
+in~O
+a~O
+strongly~O
+alkaline~O
+oxidizing~O
+solution.~O
+
+Copper~O
+Cu~O
+and~O
+cuprous~B-structure control
+oxide~I-structure control
+Cu2O~I-structure control
+nanocatalysts~I-structure control
+have~O
+been~O
+synthesized~O
+and~O
+characterized~O
+by~O
+X-ray~O
+Diffraction~O
+XRD~O
+Transmission~O
+Electron~O
+Microscopy~O
+TEM~O
+and~O
+Field~O
+Emission~O
+Scanning~O
+Electron~O
+Microscopy~O
+FESEM~O
+for~O
+finding~O
+the~O
+differences~O
+in~O
+their~O
+surface~O
+characteristics~O
+in~O
+order~O
+to~O
+explain~O
+the~O
+selectivity~O
+of~O
+product~O
+in~O
+their~O
+use~O
+as~O
+catalysts.~O
+
+Cu~O
+nanoparticles~B-composite
+deposited~I-composite
+on~I-composite
+CNT~I-composite
+by~O
+supercritical~O
+fluid~O
+deposition~O
+for~O
+electrochemical~O
+reduction~O
+of~O
+CO2~O
+in~O
+a~O
+gas~O
+phase~O
+GDE~O
+cell~O
+Climate~O
+change~O
+has~O
+turned~O
+into~O
+one~O
+of~O
+the~O
+most~O
+important~O
+concerns~O
+for~O
+scientist~O
+in~O
+the~O
+last~O
+years~O
+due~O
+to~O
+the~O
+huge~O
+increase~O
+of~O
+CO2~O
+concentration~O
+in~O
+the~O
+atmosphere~O
+in~O
+the~O
+last~O
+century.~O
+
+Control~O
+experiments~O
+have~O
+indicated~O
+that~O
+the~B-structure control
+potential~I-structure control
+synergistic~I-structure control
+interactions~I-structure control
+between~I-structure control
+Cu~I-structure control
+0~I-structure control
+from~I-structure control
+Cu~I-structure control
+NPs~I-structure control
+and~I-structure control
+Cu-N-x~I-structure control
+sites~I-structure control
+have~I-structure control
+promoting~I-structure control
+effects~I-structure control
+on~I-structure control
+both~I-structure control
+ORR~I-structure control
+and~I-structure control
+CO2RR.~I-structure control
+
+Here~O
+mesoporous~B-structure control
+CuO~O
+nanostructures~O
+were~O
+obtained~O
+by~O
+a~O
+two-step~O
+synthetic~O
+method~O
+and~O
+used~O
+as~O
+the~O
+catalyst~O
+for~O
+CO2RR~O
+with~O
+the~O
+presence~O
+of~O
+iodine~O
+anions.~O
+
+It~O
+is~O
+found~O
+that~O
+high~B-alloy
+activity~I-alloy
+and~I-alloy
+notably~I-alloy
+improved~I-alloy
+CO~I-alloy
+selectivity~I-alloy
+of~I-alloy
+Au-Cu~I-alloy
+bimetallic~I-alloy
+NPs~I-alloy
+can~I-alloy
+be~I-alloy
+attributed~I-alloy
+to~I-alloy
+the~I-alloy
+heterometallic~I-alloy
+coordination~I-alloy
+and~I-alloy
+their~I-alloy
+electronic~I-alloy
+interactions.~I-alloy
+The~O
+reduction~O
+products~O
+were~O
+analyzed~O
+by~O
+gas~O
+chromatography~O
+and~O
+nuclear~O
+magnetic~O
+resonance~O
+NMR~O
+spectroscopy.~O
+
+Due~O
+to~O
+the~O
+nanowire~B-structure control
+structure~I-structure control
+of~O
+the~O
+catalyst~O
+a~O
+remarkable~O
+ERCO2~O
+selectivity~O
+was~O
+achieved~O
+while~O
+the~O
+competing~O
+H-2~O
+evolution~O
+reaction~O
+HER~O
+was~O
+significantly~O
+suppressed~O
+for~O
+the~O
+overall~O
+range~O
+of~O
+potential~O
+tested.~O
+
+In~O
+this~O
+study~O
+a~O
+series~O
+of~O
+Cu3PdxN~O
+nanoparticles~O
+are~O
+developed~O
+by~O
+one-pot~O
+organic~O
+phase~O
+synthesis~O
+and~O
+the~O
+composition-dependent~B-structure control
+performance~I-structure control
+for~O
+CO2~O
+electrochemical~O
+reduction~O
+reaction~O
+is~O
+systematically~O
+investigated.~O
+
+This~B-alloy
+perturbation~I-alloy
+of~I-alloy
+the~I-alloy
+surface~I-alloy
+electronic~I-alloy
+structure~I-alloy
+of~I-alloy
+the~I-alloy
+CuPd/C~I-alloy
+nanoparticles~I-alloy
+leads~I-alloy
+to~I-alloy
+the~I-alloy
+lowering~I-alloy
+of~I-alloy
+the~I-alloy
+bonding~I-alloy
+strength~I-alloy
+of~I-alloy
+key~I-alloy
+adsorbate~I-alloy
+species~I-alloy
+for~I-alloy
+both~I-alloy
+the~I-alloy
+formate~I-alloy
+oxidation~I-alloy
+and~I-alloy
+electrochemical~I-alloy
+CO2~I-alloy
+reduction~I-alloy
+which~I-alloy
+increased~I-alloy
+the~I-alloy
+catalytic~I-alloy
+activity~I-alloy
+toward~I-alloy
+both~I-alloy
+reactions.~I-alloy
+Amongst~O
+the~O
+different~O
+compositions~O
+of~O
+CuxPd1-x/C~O
+the~O
+20:80~O
+molar%~O
+of~O
+Cu:Pd~O
+concentration~O
+shows~O
+an~O
+important~O
+improvement~O
+toward~O
+formate~O
+oxidation~O
+FO~O
+compared~O
+to~O
+the~O
+other~O
+CuxPd1-y~O
+compositions~O
+and~O
+the~O
+monometallic~O
+Pd.~O
+
+Dual~O
+2D~O
+CuSe/g-C3N4~B-composite
+heterostructure~I-composite
+for~O
+boosting~O
+electrocatalytic~O
+reduction~O
+of~O
+CO2~O
+CO2~O
+Reduction~O
+Reaction~O
+CO2RR~O
+is~O
+an~O
+effective~O
+route~O
+to~O
+convert~O
+CO2~O
+to~O
+value-added~O
+products~O
+in~O
+energy~O
+and~O
+environment.~O
+
+In~O
+this~O
+work~O
+we~O
+prepared~O
+porous~B-structure control
+copper~I-structure control
+nanospheres~I-structure control
+P-Cu~I-structure control
+that~I-structure control
+greatly~I-structure control
+improved~I-structure control
+the~I-structure control
+C-C~I-structure control
+coupling~I-structure control
+process~I-structure control
+by~I-structure control
+enriching~I-structure control
+*CO~I-structure control
+intermediates~I-structure control
+in~I-structure control
+the~I-structure control
+pore~I-structure control
+structure.~I-structure control
+The~O
+specific~O
+pore~O
+features~O
+of~O
+P-Cu~O
+were~O
+characterized~O
+in~O
+detail~O
+by~O
+scanning~O
+electron~O
+microscopy~O
+SEM~O
+transmission~O
+electron~O
+microscopy~O
+TEM~O
+and~O
+nitrogen~O
+adsorption/desorption~O
+tests.~O
+
+Electrochemical~O
+reduction~O
+of~O
+CO2~O
+using~O
+oxide~B-composite
+based~I-composite
+Cu~I-composite
+and~I-composite
+Zn~I-composite
+bimetallic~I-composite
+catalyst~I-composite
+Electrochemical~O
+reduction~O
+of~O
+carbon~O
+dioxide~O
+ERCO2~O
+driven~O
+by~O
+non-conventional~O
+sources~O
+of~O
+energy~O
+is~O
+a~O
+favorable~O
+approach~O
+to~O
+generate~O
+closed~O
+loop~O
+CO2~O
+cycle.~O
+
+CO2~O
+electro-reduction~O
+on~O
+Cu3P:~O
+Role~O
+of~O
+Cu~O
+I~O
+oxidation~O
+state~O
+and~O
+surface~O
+facet~O
+structure~O
+in~O
+C-1-formate~O
+production~O
+and~O
+H-2~O
+selectivity~O
+We~O
+report~O
+the~O
+catalytic~O
+activity~O
+and~O
+mechanism~O
+of~O
+copper~O
+I~O
+phosphide~O
+Cu3P~B-structure control
+with~I-structure control
+predominant~I-structure control
+[00I]~I-structure control
+facet~I-structure control
+exposure~I-structure control
+for~O
+the~O
+electrochemical~O
+reduction~O
+of~O
+CO2~O
+CO2RR~O
+to~O
+formic~O
+acid.~O
+
+The~B-structure control
+catalyst~I-structure control
+with~I-structure control
+nanowires~I-structure control
+less~I-structure control
+than~I-structure control
+2.3~I-structure control
+mu~I-structure control
+m~I-structure control
+converts~O
+CO2~O
+to~O
+CO~O
+with~O
+a~O
+high~O
+CO/formate~O
+ratio~O
+of~O
+2.~O
+
+52~O
+while~O
+formate~O
+is~O
+the~O
+dominant~O
+product~O
+on~O
+longer~B-structure control
+nanowires~I-structure control
+>=~I-structure control
+2.7~I-structure control
+mu~I-structure control
+m~I-structure control
+with~O
+a~O
+low~O
+CO/formate~O
+ratio~O
+of~O
+0.~O
+
+Porous~O
+tin-based~B-structure control
+film~I-structure control
+deposited~I-structure control
+on~I-structure control
+copper~I-structure control
+foil~I-structure control
+for~O
+electrochemical~O
+reduction~O
+of~O
+carbon~O
+dioxide~O
+to~O
+formate~O
+Electrochemical~O
+reduction~O
+of~O
+carbon~O
+dioxide~O
+CO2~O
+has~O
+been~O
+studied~O
+using~O
+a~O
+Sn/Cu~O
+electrode~O
+as~O
+the~O
+cathode~O
+in~O
+aqueous~O
+KHCO3~O
+solution.~O
+
+Additionally~O
+the~B-composite
+pyridinic-N~I-composite
+in~I-composite
+NRGO~I-composite
+was~I-composite
+supposed~I-composite
+to~I-composite
+behave~I-composite
+synergistic~I-composite
+effect~I-composite
+with~I-composite
+Cu2O~I-composite
+leading~I-composite
+to~I-composite
+a~I-composite
+clearly~I-composite
+improvement~I-composite
+of~I-composite
+activity~I-composite
+and~I-composite
+durability~I-composite
+of~I-composite
+Cu2O~I-composite
+for~I-composite
+electrocatalytic~I-composite
+CO2~I-composite
+reduction~I-composite
+to~I-composite
+ethylene.~I-composite
+
+Considering~O
+that~O
+copper~O
+Cu~O
+has~O
+good~O
+conductivity~O
+and~O
+feature~O
+of~O
+empty~O
+half~O
+4s~O
+level~O
+that~O
+can~O
+behave~O
+as~O
+an~O
+electron~O
+donor~O
+or~O
+acceptor~O
+here~O
+we~O
+synthesized~O
+Cu~B-structure control
+nanowires~I-structure control
+NWs~I-structure control
+bridged~I-structure control
+Bi~I-structure control
+nanosheets~I-structure control
+Cu~I-structure control
+NWs-Bi~I-structure control
+NSs~I-structure control
+arrays~I-structure control
+grown~O
+on~O
+carbon~O
+cloth~O
+through~O
+facile~O
+electrochemical~O
+routes.~O
+
+Besides~O
+the~B-composite
+Cu2O/ZnO~I-composite
+electrodes~I-composite
+are~I-composite
+expected~I-composite
+to~I-composite
+catalyze~I-composite
+the~I-composite
+CO2~I-composite
+electroreduction~I-composite
+for~I-composite
+over~I-composite
+20~I-composite
+h.~I-composite
+These~O
+results~O
+may~O
+provide~O
+new~O
+insights~O
+into~O
+the~O
+application~O
+of~O
+gas~O
+diffusion~O
+electrodes~O
+to~O
+alleviate~O
+mass~O
+transfer~O
+limitations~O
+in~O
+electrochemical~O
+systems~O
+for~O
+the~O
+transformation~O
+of~O
+CO2~O
+to~O
+alcohols.~O
+
+This~O
+investigation~O
+intends~O
+to~O
+ascribe~O
+the~O
+enhanced~O
+properties~O
+to~O
+the~O
+surface~B-surface modification
+downsized~I-surface modification
+crystals~I-surface modification
+of~I-surface modification
+Cu~I-surface modification
+electrode~I-surface modification
+induced~O
+by~O
+the~O
+multiple-redox~O
+treatments.~O
+
+The~B-structure control
+strong~I-structure control
+performance~I-structure control
+of~I-structure control
+CL-Cu~I-structure control
+NEs~I-structure control
+was~I-structure control
+ascribed~I-structure control
+to~I-structure control
+the~I-structure control
+synergism~I-structure control
+between~I-structure control
+the~I-structure control
+coral-like~I-structure control
+morphology~I-structure control
+and~I-structure control
+abundant~I-structure control
+Cu~I-structure control
+1~I-structure control
+0~I-structure control
+0~I-structure control
+/Cu~I-structure control
+1~I-structure control
+1~I-structure control
+1~I-structure control
+interfaces.~I-structure control
+
+Herein~O
+inspired~O
+by~O
+the~O
+reactant~O
+species~O
+concentration~O
+profile~O
+in~O
+a~O
+plug~O
+flow~O
+reactor~O
+Cu/ZnO~O
+tandem~O
+electrodes~O
+are~O
+designed~O
+by~O
+spatially~O
+adding~O
+a~O
+ZnO~B-surface modification
+catalyst~I-surface modification
+layer~I-surface modification
+on~I-surface modification
+top~I-surface modification
+of~I-surface modification
+the~I-surface modification
+Cu~I-surface modification
+catalyst~I-surface modification
+layer~I-surface modification
+in~O
+which~O
+the~O
+ZnO~O
+catalyst~O
+layer~O
+fed~O
+CO~O
+concentration~O
+progressively~O
+decreases~O
+over~O
+the~O
+Cu~O
+catalyst~O
+layer.~O
+
+Electrochemical~O
+CO2~O
+reduction~O
+improved~O
+by~O
+tuning~O
+the~O
+Cu-Cu~O
+distance~O
+in~O
+halogen-bridged~O
+dinuclear~O
+cuprous~O
+coordination~O
+polymers~O
+Cu~O
+dinuclear~O
+coordination~O
+polymers~O
+in~O
+which~O
+two~B-atomic level dispersion
+Cu~I-atomic level dispersion
+atoms~I-atomic level dispersion
+are~I-atomic level dispersion
+bridged~I-atomic level dispersion
+by~I-atomic level dispersion
+a~I-atomic level dispersion
+halogen~I-atomic level dispersion
+reduce~O
+CO2~O
+to~O
+C-2~O
+products.~O
+
+The~B-composite
+high~I-composite
+selectivity~I-composite
+toward~I-composite
+CO~I-composite
+by~I-composite
+Cu/CA-CO2-N-2-700~I-composite
+maybe~I-composite
+attributed~I-composite
+to~I-composite
+their~I-composite
+excellent~I-composite
+stability~I-composite
+in~I-composite
+maintaining~I-composite
+the~I-composite
+metallic~I-composite
+nature~I-composite
+of~I-composite
+Cu~I-composite
+component~I-composite
+within~I-composite
+the~I-composite
+hydrophobic~I-composite
+carbon~I-composite
+aerogels~I-composite
+during~I-composite
+electrocatalysis~I-composite
+which~O
+further~O
+prevents~O
+the~O
+adsorption~O
+and~O
+reduction~O
+of~O
+CO~O
+on~O
+the~O
+catalyst.~O
+
+The~O
+Cu~O
+I~O
+oxide~O
+species~O
+on~O
+Cu@Cu2O~O
+surface~O
+remained~O
+relatively~O
+stable~O
+against~O
+reduction~O
+under~O
+CO2~O
+electroreduction~O
+condition~O
+and~O
+the~B-composite
+synergism~I-composite
+between~I-composite
+surface~I-composite
+Cu+~I-composite
+and~I-composite
+Cu-0~I-composite
+in~I-composite
+Cu@Cu2O~I-composite
+contributed~I-composite
+to~I-composite
+boosting~I-composite
+its~I-composite
+efficiency~I-composite
+and~I-composite
+selectivity~I-composite
+toward~I-composite
+C-2~I-composite
+products.~I-composite
+This~O
+Cu@Cu2O~O
+catalyst~O
+achieved~O
+an~O
+excellent~O
+selectivity~O
+similar~O
+to~O
+50%~O
+at~O
+-1.~O
